@@ -5,6 +5,6 @@
 marketing team in Sprocket Central Pty Ltd is looking to boost business by analyzing their existing customer dataset to determine customer trends and behavior
  
  We will implement 3 Tasks :
-1- Data Exploration
-2- Model development
-3- Interpretation 
+1. Data Exploration
+2. Model development
+3. Interpretation 
